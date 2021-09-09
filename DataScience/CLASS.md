@@ -7,7 +7,7 @@ Course focused on sharing session about the introductory of what is Data Science
 
 
 ## Class Description
-By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering number of software projects rely on Git for version control, including commercial projects as well as open source. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
+Business intelligence is the process by which enterprises use strategies and technologies for analyzing current and historical data, intending to improve strategic decision-making and provide a competitive advantage. With the evolution of IT and the practices of artificial intelligence is increasing, business industries can be assisted more to grow. Then, the existence of the Big Data problem creates a new field which is Data Science which means the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. So, what is your preparation for the future when everyone already use Data Science and AI in their life?
 
 
 | About | Description |
