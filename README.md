@@ -8,11 +8,11 @@ Course by Me
 
 I will put list of syllabus here in future
 
-### Introduction to Data Science with Tableau :+1:
+### Introduction to Data Science with Tableau
 
 ```
 https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md
-```[![CLICK ME](:computer_mouse:)](https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md)
+```[![CLICK ME]](https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md)
 
 --Coming Soon--
 
