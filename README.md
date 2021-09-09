@@ -12,7 +12,7 @@ I will put list of syllabus here in future
 
 ```
 https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md
-```[![CLICK ME](🖥CLICK ME)](https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md)
+```[![CLICK ME](:computer_mouse:)](https://github.com/qeifar/coursesbyme/blob/master/DataScience/CLASS.md)
 
 --Coming Soon--
 
